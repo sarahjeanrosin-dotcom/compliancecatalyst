@@ -1,0 +1,14 @@
+{
+  "name": "compliance-catalyst",
+  "version": "1.0.0",
+  "description": "Map compliance policies to FTC/FDA regulations and optimize with behavioral design",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build needed'",
+    "start": "vercel dev"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=18"
+  }
+}
